@@ -1,0 +1,10 @@
+{
+	"port": 12361,
+	"dbname": "contentmanagerapp_db",
+	"dbendpoint": "localhost",
+	"dbcredentials":
+	{
+		"username": "empty",
+		"password": "empty"
+	}
+}
